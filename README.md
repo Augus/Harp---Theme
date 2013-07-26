@@ -7,4 +7,5 @@ Download this theme
 - [Harp-Theme ](https://raw.github.com/Augus/Harp---Theme/master/Harp.tmTheme)  
   
 
+![https://raw.github.com/Augus/Harp---Theme/master/Poster.png](https://raw.github.com/Augus/Harp---Theme/master/Poster.png)
 ![https://raw.github.com/Augus/Harp---Theme/master/Harp.png](https://raw.github.com/Augus/Harp---Theme/master/Harp.png)
